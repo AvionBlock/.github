@@ -21,4 +21,6 @@ Take a look around!
 </a>
 
 ## Discord
-<iframe src="https://discord.com/widget?id=847396393068265472&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+<a align="center" href="https://discord.gg/fJGsRY5hh9">
+  <img src="https://discordapp.com/api/guilds/847396393068265472/widget.png?style=banner4" alt="Discord Invite"/>
+</a>
