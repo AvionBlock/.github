@@ -19,3 +19,6 @@ Take a look around!
 <a align="center" href="https://github.com/AvionBlock/SpeexDSPSharp">
   <img align="center" src="https://opengraph.githubassets.com/1/AvionBlock/SpeexDSPSharp" width="350px"/>
 </a>
+
+## Discord
+<iframe src="https://discord.com/widget?id=847396393068265472&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
