@@ -10,8 +10,8 @@ Take a look around!
 <a align="center" href="https://github.com/AvionBlock/OpusSharp">
   <img align="center" src="https://opengraph.githubassets.com/1/AvionBlock/OpusSharp" width="350px"/>
 </a>
-<a align="center" href="https://github.com/AvionBlock/SharpVE">
-  <img align="center" src="https://opengraph.githubassets.com/1/AvionBlock/SharpVE" width="350px"/>
+<a align="center" href="https://github.com/AvionBlock/VoiceCraft">
+  <img align="center" src="https://opengraph.githubassets.com/1/AvionBlock/VoiceCraft" width="350px"/>
 </a>
 <a align="center" href="https://github.com/AvionBlock/VoiceCraft-Addon">
   <img align="center" src="https://opengraph.githubassets.com/1/AvionBlock/VoiceCraft-Addon" width="350px"/>
